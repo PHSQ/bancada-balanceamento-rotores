@@ -5,7 +5,7 @@
 Baixe o [quatro_corridas.py](python/quatro_corridas.py) pelo botão **Download** do GitHub. Salve o arquivo em uma nova pasta. No terminal, abra a pasta que contém o arquivo quatro_corridas.py e execute:
 
 ```powershell
-python python\quatro_corridas.py
+python quatro_corridas.py
 ```
 
 Se faltarem as bibliotecas, instale uma vez com `python -m pip install numpy pyserial matplotlib`. Siga as instruções do próprio programa para realizar o ensaio.
