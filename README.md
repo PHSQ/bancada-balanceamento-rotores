@@ -14,7 +14,7 @@ Se faltarem as bibliotecas, instale uma vez com `python -m pip install numpy pys
 
 [Manual em português, com foto do painel](manual-controlador.md).
 
-Para ligar na bancada, **aperte o botão vermelho RUN/STOP e depois ligue a chavinha**.
+Para ligar na bancada, **pressione o botão giratório prateado (RUN/STOP) e depois ligue a chavinha**.
 
 ## Se o programa não conectar
 

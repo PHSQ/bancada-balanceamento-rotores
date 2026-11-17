@@ -2,11 +2,11 @@
 
 Tradução do folheto **User Manual for DC Digital Display Governor** fornecido com a bancada.
 
-![Painel do controlador com botão RUN/STOP vermelho e chavinha à direita](imagens/controlador.png)
+![Painel do controlador com o botão giratório prateado RUN/STOP no canto superior direito e a chavinha abaixo](imagens/controlador.png)
 
 ## Uso na bancada
 
-Aperte o botão vermelho **RUN/STOP** e depois ligue a chavinha. O painel indica o ajuste em porcentagem. Confira a rotação em RPM com o tacômetro.
+Pressione o **botão giratório prateado (RUN/STOP)** e depois ligue a chavinha. O painel indica o ajuste em porcentagem. Confira a rotação em RPM com o tacômetro.
 
 ## Dados do folheto
 
