@@ -2,7 +2,7 @@
 
 ## Baixar e executar
 
-Baixe o [quatro_corridas.py](python/quatro_corridas.py) pelo botão **Download** do GitHub. Salve o arquivo em uma nova pasta. No terminal, abra a pasta que contém o arquivo quatro_corridas.py e execute:
+Baixe o [quatro_corridas.py](python/quatro_corridas.py) pelo botão **Download** do GitHub. Salve o arquivo em uma nova pasta. No terminal, abra a pasta que contém o arquivo e execute:
 
 ```powershell
 python quatro_corridas.py
