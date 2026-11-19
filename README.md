@@ -29,7 +29,7 @@ PORTA_SERIAL = "COM5"
 <details>
 <summary><strong>Recomendações práticas e condições com bons resultados</strong></summary>
 
-- **Rotação.** Nos ensaios, houve bons resultados entre **640 e 950 RPM**, mesmo com pequenas variações entre leituras. Confira a rotação no tacômetro e procure mantê-la próxima do valor escolhido nas quatro corridas.
+- **Rotação.** Nos ensaios, houve bons resultados entre **640 e 950 RPM**, mesmo com pequenas variações entre leituras.
 - **Massas.** Houve bons resultados com **10 g de desbalanceamento** e **7,6 g de massa de teste**. Use a mesma massa de teste nas três posições. Se quiser comparar outra massa ou outra rotação, faça um novo ensaio.
 
 </details>
